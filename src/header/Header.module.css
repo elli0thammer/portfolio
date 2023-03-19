@@ -1,0 +1,9 @@
+.header {
+    background-color: #cfeaff;
+    height: 80px;
+}
+
+.header__wrap {
+    width: 1280px;
+    margin: 0 auto;
+}

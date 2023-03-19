@@ -1,0 +1,14 @@
+.my_skills {
+    background-color: #ddfee9;
+    height: 400px;
+}
+
+.my_skills__container {
+    border: 1px solid black;
+}
+
+.my_skills__skills {
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+}

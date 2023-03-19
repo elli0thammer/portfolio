@@ -1,0 +1,12 @@
+.navigation {
+    width: 500px;
+    border: 1px solid black;
+}
+
+.navigation__list {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
